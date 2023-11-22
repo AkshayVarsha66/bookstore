@@ -9,8 +9,8 @@ public class Sahana {
 
 	public static void main(String[] args) {
 
-		byte a = 0;
-		int c = 90;
+		//byte a = 0;
+		// int c = 90;
 		float io=899.12345f;
 		double p = 2147483648.165678956789;
 		String l = "sahana";
