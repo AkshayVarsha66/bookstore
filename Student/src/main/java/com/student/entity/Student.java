@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 public class Student {
-@Id
+	
 private String studentId;
 private String studentName;
 private double salary;
