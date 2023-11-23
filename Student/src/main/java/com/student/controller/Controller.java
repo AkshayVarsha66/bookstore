@@ -46,7 +46,7 @@ public class Controller {
 	}
 	@PutMapping("/student/{name}")
 	private Student update(@RequestBody Student student) {
-		log.info("Update Data");
+		log.info("Update Data.");
 		return studentService.updateStudent(student);
 	}
 }
